@@ -1,0 +1,298 @@
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.AssemblyReference.cache
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfoInputs.cache
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfo.cs
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CoreCompileInputs.cache
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.exe
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.deps.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.runtimeconfig.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\ref\MatchingCampaignAPI.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.pdb
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\scopedcss\bundle\MatchingCampaignAPI.styles.css
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CopyComplete
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\ref\MatchingCampaignAPI.dll
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.pdb
+H:\Rivki Groisman Nechami Wormser\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.genruntimeconfig.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.exe
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.deps.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.runtimeconfig.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\ref\MatchingCampaignAPI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.AssemblyReference.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfoInputs.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfo.cs
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CoreCompileInputs.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\scopedcss\bundle\MatchingCampaignAPI.styles.css
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CopyComplete
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\ref\MatchingCampaignAPI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.genruntimeconfig.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Humanizer.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.Development.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.exe
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.deps.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.runtimeconfig.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\ref\MatchingCampaignAPI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Humanizer.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfo.cs
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cs
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.build.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.development.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\scopedcss\bundle\MatchingCampaignAPI.styles.css
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CopyComplete
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\ref\MatchingCampaignAPI.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.genruntimeconfig.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.exe
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.deps.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.runtimeconfig.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Humanizer.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.AssemblyReference.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfoInputs.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfo.cs
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CoreCompileInputs.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\scopedcss\bundle\MatchingCampaignAPI.styles.css
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CopyComplete
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\refint\MatchingCampaignAPI.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.genruntimeconfig.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\ref\MatchingCampaignAPI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.exe
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.deps.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.runtimeconfig.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignAPI.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignBL.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\CommonClasses.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.AssemblyReference.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfoInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.AssemblyInfo.cs
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\scopedcss\bundle\MatchingCampaignAPI.styles.css
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.csproj.CopyComplete
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\refint\MatchingCampaignAPI.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\MatchingCampaignAPI.genruntimeconfig.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignAPI\obj\Debug\net6.0\ref\MatchingCampaignAPI.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0tRWmrC+Y9V+C6aWHaoRfaHxKTgG5IBWa4s1phoB1MY=",
+  "Source": "MatchingCampaignAPI",
+  "BasePath": "_content/MatchingCampaignAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

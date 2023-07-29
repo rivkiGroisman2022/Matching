@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="matching.js"></script>
+    <title>Document</title>
+</head>
+<body>
+<p>Matching Details</p>
+<div id="details"></div>
+<ul id="donations"></ul>
+
+<form action="" id="newDonation">
+    <label for="throwCollectorName">throwCollectorName</label>
+    <input type="text" id="throwCollectorName">
+    <label for="donorName">name</label>
+    <input type="text" id="donorName" required>
+    <label for="sum">sum</label>
+    <input type="text" id="sum" required>
+    <label for="inscription">inscription</label>
+    <input type="text" id="inscription" >
+    <label for="phoneNumber">phoneNumber</label>
+    <input type="text" id="phoneNumber" required>
+    <label for="adress">adress</label>
+    <input type="text" id="adress" >
+    <label for="email">email</label>
+    <input type="email" id="email" >
+    <label for="creditNumber">creditNumber</label>
+    <input type="text" id="creditNumber" required minlength="16", maxlength="16">
+    <label for="cvv">cvv</label>
+    <input type="text" id="cvv" required minlength="3", maxlength="3">
+    <label for="validity">validity</label>
+    <input type="date" id="validity" required>
+    <label for="idnumber">idnumber</label>
+    <input type="text" id="idnumber" required minlength="9", maxlength="9">
+    <label for="name">name</label>
+    <input type="text" id="name" required>
+    <!-- <input type="submit"> -->
+    <button class="button" id="add" click="postDonation()">add</button>
+</form>
+<br>
+<label for="password">password</label>
+<input type="password" id="password" required>
+<label for="newGoal">newGoal</label>
+<input type="text" id="newGoal" required>
+<button id="change" onclick="updateGoal()">change</button>
+</body>
+</html>

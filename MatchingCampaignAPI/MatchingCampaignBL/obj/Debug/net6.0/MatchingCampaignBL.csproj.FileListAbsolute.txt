@@ -1,0 +1,68 @@
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.AssemblyReference.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.GeneratedMSBuildEditorConfig.editorconfig
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfoInputs.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfo.cs
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CoreCompileInputs.cache
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.deps.json
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\ref\MatchingCampaignBL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CopyComplete
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\ref\MatchingCampaignBL.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.pdb
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.deps.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\ref\MatchingCampaignBL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfo.cs
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CopyComplete
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\ref\MatchingCampaignBL.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.deps.json
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.AssemblyReference.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfoInputs.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfo.cs
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CoreCompileInputs.cache
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CopyComplete
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\refint\MatchingCampaignBL.dll
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.pdb
+D:\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\ref\MatchingCampaignBL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.deps.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignBL.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\CommonClasses.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\bin\Debug\net6.0\MatchingCampaignDAL.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.AssemblyReference.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfoInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.AssemblyInfo.cs
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CoreCompileInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.csproj.CopyComplete
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\refint\MatchingCampaignBL.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\MatchingCampaignBL.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\MatchingCampaignBL\obj\Debug\net6.0\ref\MatchingCampaignBL.dll

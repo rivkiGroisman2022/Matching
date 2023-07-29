@@ -1,0 +1,48 @@
+H:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.deps.json
+H:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\ref\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.pdb
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.AssemblyReference.cache
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfoInputs.cache
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfo.cs
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.CoreCompileInputs.cache
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\ref\CommonClasses.dll
+H:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.deps.json
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\ref\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.pdb
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfo.cs
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\ref\CommonClasses.dll
+S:\HandesaimV\Students\Group2\וורמזר נחמה\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.pdb
+D:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.deps.json
+D:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.dll
+D:\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.pdb
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.AssemblyReference.cache
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfoInputs.cache
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfo.cs
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.CoreCompileInputs.cache
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.dll
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\refint\CommonClasses.dll
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.pdb
+D:\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\ref\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.deps.json
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\bin\Debug\net6.0\CommonClasses.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.AssemblyReference.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfoInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.AssemblyInfo.cs
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.csproj.CoreCompileInputs.cache
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\refint\CommonClasses.dll
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\CommonClasses.pdb
+C:\Users\Rivka\Desktop\RAndN\MatchingCampaignAPI\CommonClasses\obj\Debug\net6.0\ref\CommonClasses.dll

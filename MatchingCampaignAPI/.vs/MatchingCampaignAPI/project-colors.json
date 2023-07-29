@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa5f11b8-0a1b-491c-bb59-522fd6bfb247": {
+      "ProjectGuid": "aa5f11b8-0a1b-491c-bb59-522fd6bfb247",
+      "DisplayName": "MatchingCampaignAPI",
+      "ColorIndex": 0
+    },
+    "763caa88-f3db-4fa4-a595-5e6171ec65ad": {
+      "ProjectGuid": "763caa88-f3db-4fa4-a595-5e6171ec65ad",
+      "DisplayName": "MatchingCampaignBL",
+      "ColorIndex": 1
+    },
+    "16bfe903-d32d-4c78-aefe-257f28e79efe": {
+      "ProjectGuid": "16bfe903-d32d-4c78-aefe-257f28e79efe",
+      "DisplayName": "MatchingCampaignDAL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9d9d53f8-155e-48f9-9e26-a0ca32a42a20": {
+      "ProjectGuid": "9d9d53f8-155e-48f9-9e26-a0ca32a42a20",
+      "DisplayName": "CommonClasses",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
